@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6bb7172-532c-4fa2-930d-bea7e45a78cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO2/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO3/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO4/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EXO1/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EXO2/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EXO3/FibonacciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EXO4/PrimeTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6bb7172-532c-4fa2-930d-bea7e45a78cd" name="Changes" comment="LES 4 PREMIERS EXOS DE TP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,9 +69,20 @@
       <option name="presentableId" value="Default" />
       <updated>1743061332608</updated>
     </task>
+    <task id="LOCAL-00001" summary="LES 4 PREMIERS EXOS DE TP">
+      <option name="closed" value="true" />
+      <created>1743064863832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743064863832</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="LES 4 PREMIERS EXOS DE TP" />
+    <option name="LAST_COMMIT_MESSAGE" value="LES 4 PREMIERS EXOS DE TP" />
   </component>
 </project>
