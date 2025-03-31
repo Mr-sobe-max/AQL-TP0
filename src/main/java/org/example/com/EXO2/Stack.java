@@ -1,5 +1,6 @@
 package org.example.com.EXO2;
 
+/* class stack */
 public class Stack {
     private int[] array;
     private int top;

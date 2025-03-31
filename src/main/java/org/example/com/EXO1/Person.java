@@ -1,5 +1,6 @@
 package org.example.com.EXO1;
 
+/* class person */
 public class Person {
     private String firstName;
     private String lastName;
