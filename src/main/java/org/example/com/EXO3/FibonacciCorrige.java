@@ -2,6 +2,7 @@ package org.example.com.EXO3;
 
 import java.math.BigInteger;
 
+/* classe fibonacci corrige */
 public class FibonacciCorrige {
     public static BigInteger fibonacci(int n) {
         if (n < 0) {
