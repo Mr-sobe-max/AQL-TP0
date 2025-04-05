@@ -1,5 +1,6 @@
 package org.example.com.EXO4;
 
+/* classe prime */
 public class Prime {
 
     public static boolean isPrime(int n) {

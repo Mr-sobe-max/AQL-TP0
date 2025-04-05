@@ -1,5 +1,6 @@
 package org.example.com.EXO5;
 
+/* classe factorial */
 public class Factorial {
     public static int factorial(int n) {
         if (n < 0) {

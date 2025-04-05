@@ -1,5 +1,6 @@
 package org.example.com.EXOBONUS1;
 
+/* classe bank account */
 public class BankAccount {
     private double balance;
     private double interestRate;

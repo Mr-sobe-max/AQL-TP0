@@ -1,5 +1,6 @@
 package org.example.com.EXOBONUS2;
 
+/* classe matrix avec correction */
 public class MatrixCorrige {
     private int[][] array;
     private int size;

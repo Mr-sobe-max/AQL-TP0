@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6bb7172-532c-4fa2-930d-bea7e45a78cd" name="Changes" comment="L'ajout des quelques modifications" />
+    <list default="true" id="c6bb7172-532c-4fa2-930d-bea7e45a78cd" name="Changes" comment="L'ajout des quelques modifications">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO4/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO4/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO5/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO5/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXOBONUS1/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXOBONUS1/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXOBONUS1/BankAccountCorrige.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXOBONUS1/BankAccountCorrige.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXOBONUS2/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXOBONUS2/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXOBONUS2/MatrixCorrige.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXOBONUS2/MatrixCorrige.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +50,7 @@
     "JUnit.StackTest.executor": "Run",
     "JUnit.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/IntelliJ IDEA Community Edition 2024.1/lib/junit.jar",
     "project.structure.last.edited": "Modules",

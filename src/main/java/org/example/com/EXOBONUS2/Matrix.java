@@ -1,5 +1,6 @@
 package org.example.com.EXOBONUS2;
 
+/* classe matrix */
 public class Matrix {
     private int[][] array;
     private int size;
