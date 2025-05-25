@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6bb7172-532c-4fa2-930d-bea7e45a78cd" name="Changes" comment="LES 4 PREMIERS EXOS DE TP">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO5/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EXO5/FactorialTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6bb7172-532c-4fa2-930d-bea7e45a78cd" name="Changes" comment="LES 4 PREMIERS EXOS DE TP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2utIDi9lwHaWAfMY2Atg65R1r7E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,12 +34,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.BankAccountTest.executor": "Run",
+    "JUnit.FactorialTest.executor": "Run",
     "JUnit.FibonacciTest.executor": "Run",
+    "JUnit.MatrixTest.executor": "Run",
     "JUnit.PrimeTest.executor": "Run",
     "JUnit.StackTest.executor": "Run",
     "JUnit.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/IntelliJ IDEA Community Edition 2024.1/lib/junit.jar",
     "project.structure.last.edited": "Modules",
