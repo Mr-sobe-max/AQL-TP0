@@ -10,7 +10,7 @@ Ce projet contient les solutions pour le TP0 sur les tests unitaires avec JUnit 
 - Gérer un projet avec Git et GitHub.
 
 ## Structure du projet
-- **src/main/java/com/example/tp0/** : Contient les classes Java :
+- **src/main/java/com/org.example.com/EXO{numeroExo}/** : Contient les classes Java :
   - `Calculator.java`
   - `Person.java`
   - `Stack.java`
@@ -19,7 +19,7 @@ Ce projet contient les solutions pour le TP0 sur les tests unitaires avec JUnit 
   - `Factorial.java`
   - `BankAccount.java`
   - `Matrix.java`
-- **src/test/java/com/example/tp0/** : Contient les classes de test JUnit 5 correspondantes :
+- **src/test/java/com/org.example.com/EXO{numeroExo}/** : Contient les classes de test JUnit 5 correspondantes :
   - `CalculatorTest.java`
   - `PersonTest.java`
   - `StackTest.java`
